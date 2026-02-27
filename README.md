@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Atharv 👋
 
-<!--
-**ATHARV-MALWADKAR/ATHARV-MALWADKAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science Student
+- Learning Python and Problem Solving
+- Interested in Cybersecurity and Development
+- Improving Every Day
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C
+- SQL (Basics)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures
+- Algorithms
+- Web Security
+- Data Science
+
+## Projects
+Projects will be added soon.
+
+## Goals 2026
+- Become strong in Python
+- Master Data Structures
+- Build 10+ Projects
+- Get Internship
+
+## Connect With Me
+- Location: Pune, India
