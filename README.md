@@ -32,8 +32,8 @@ Projects will be added soon.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATHARV-MALWADKAR&show_icons=true&theme=dark)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ATHARV-MALWADKAR)
 
-## Most Used Languages
+## Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-MALWADKAR&layout=compact&theme=dark)
+Learning Python, C and Data Structures.
