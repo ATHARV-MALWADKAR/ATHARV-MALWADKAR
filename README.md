@@ -29,3 +29,11 @@ Projects will be added soon.
 
 ## Connect With Me
 - Location: Pune, India
+
+## GitHub Stats
+
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATHARV-MALWADKAR&show_icons=true)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-MALWADKAR&layout=compact)
