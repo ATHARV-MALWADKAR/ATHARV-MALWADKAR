@@ -36,4 +36,4 @@ Projects will be added soon.
 
 ## Languages
 
-Learning Python, C and Data Structures.
+Learning Python and Data Structures.
