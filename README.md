@@ -19,7 +19,11 @@
 - Data Science
 
 ## Projects
-Projects will be added soon.
+- **Educore ERP System**  
+  A college ERP platform focused on managing academic workflows, authentication systems, and administrative operations.
+
+- More projects coming soon...  
+
 
 ## Goals 2026
 - Become strong in Python
