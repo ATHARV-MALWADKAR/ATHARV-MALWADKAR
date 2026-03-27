@@ -11,6 +11,7 @@
 - C
 - SQL (Basics)
 - Git & GitHub
+- Java
 
 ## Currently Learning
 - Data Structures
