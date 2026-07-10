@@ -41,4 +41,4 @@
 
 ## Languages
 
-Learning Python and Data Structures.
+Learning Python and Data Structures & Algorithms.
