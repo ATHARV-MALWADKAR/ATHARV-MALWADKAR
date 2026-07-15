@@ -1,107 +1,150 @@
-# Hi there 👋, I'm Atharv Malwadkar
+<h1 align="center">
+Hi 👋, I'm Atharv Malwadkar
+</h1>
 
-## 🚀 About Me
+<h3 align="center">
+Computer Science Engineering Student • AI Enthusiast • Cybersecurity Learner • Building Real-World Software
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Learning+Cybersecurity;Backend+Developer;Future+Tech+Entrepreneur;Always+Learning+Something+New" />
+</p>
+
+---
+
+# 🚀 About Me
 
 🎓 B.Tech Computer Science Engineering Student (3rd Year)
 
-💻 Passionate about AI, Cybersecurity, and Software Development
+💡 Passionate about AI, Backend Development and Cybersecurity
 
-🚀 Building real-world products and working toward launching my own tech startup
+🚀 Building products instead of only solving problems
 
-📚 Constantly learning, building, and improving every day
+🧠 Interested in Startups, System Design and Scalable Software
 
-🌱 Believer in learning by creating projects that solve real problems
+📍 Pune, Maharashtra, India
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-* Python
-* Java
-* C
-* SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+</p>
 
-### Technologies & Tools
+### Frameworks & Tools
 
-* Git & GitHub
-* MySQL
-* FastAPI
-* REST APIs
-* Linux
-* VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux" />
+</p>
 
-### Currently Exploring
+### Currently Learning
 
-* Artificial Intelligence & Machine Learning
-* Cybersecurity
-* Data Structures & Algorithms
-* Backend Development
-* System Design
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,docker" />
+</p>
 
----
-
-## 🚧 Featured Projects
-
-### 🎓 EduCore ERP System
-
-A modern College ERP platform designed to simplify academic and administrative workflows.
-
-**Features**
-
-* Secure Authentication
-* Student Dashboard
-* Faculty Management
-* Attendance Management
-* Academic Records
-* Role-Based Access Control
-* Database Integration
-
-> More exciting projects are coming soon.
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Cybersecurity
+- FastAPI
+- System Design
 
 ---
 
-## 🎯 Goals for 2026
+# 📂 Featured Projects
 
-* Master Python
-* Become highly proficient in Data Structures & Algorithms
-* Build 10+ impactful projects
-* Strengthen AI and Cybersecurity skills
-* Secure a Software Engineering Internship
-* Contribute to Open Source
+## 🎓 EduCore ERP
 
----
+A modern College ERP platform focused on digitizing academic and administrative workflows.
 
-## 📈 Currently Learning
+### Features
 
-* Python (Advanced)
-* Data Structures & Algorithms
-* Artificial Intelligence
-* Cybersecurity
-* FastAPI
-* System Design
+- Secure Authentication
+- Student Dashboard
+- Faculty Dashboard
+- Attendance Management
+- Academic Records
+- MySQL Database
+- FastAPI Backend
+- Role Based Access Control
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 More Projects Coming Soon
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ATHARV-MALWADKAR)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ATHARV-MALWADKAR&show_icons=true&theme=tokyonight)
+- AI Applications
+- Cybersecurity Tools
+- Python Automation
+- Open Source Contributions
 
 ---
 
-## 💻 Most Used Languages
+# 🎯 2026 Goals
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ATHARV-MALWADKAR&layout=compact&theme=tokyonight)
+- ✅ Master Python
+- 🔄 Master DSA
+- 🔄 Build 15+ Projects
+- 🔄 Learn AI Engineering
+- 🔄 Learn Cybersecurity
+- 🔄 Secure Internship
+- 🔄 Launch First SaaS Product
 
 ---
 
-## 💡 Quote
+# 📊 GitHub Stats
 
-> "Great software is built by continuously learning, solving real problems, and never giving up."
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ATHARV-MALWADKAR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-MALWADKAR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ATHARV-MALWADKAR&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHARV-MALWADKAR&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/atharv-malwadkar-43822028b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+
+
+---
+
+# 💬 Favorite Quote
+
+> **"Learn. Build. Ship. Repeat."**
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+</p>
