@@ -84,15 +84,6 @@ A modern College ERP platform designed to simplify academic and administrative w
 
 ---
 
-## 📫 Connect With Me
-
-📍 Pune, Maharashtra, India
-
-* GitHub: https://github.com/ATHARV-MALWADKAR
-* LinkedIn: https://www.linkedin.com/in/atharv-malwadkar-43822028b
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ATHARV-MALWADKAR)
