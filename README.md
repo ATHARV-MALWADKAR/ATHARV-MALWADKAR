@@ -84,7 +84,7 @@ A modern College ERP platform focused on digitizing academic and administrative 
 
 # 🎯 2026 Goals
 
-- ✅ Master Python
+- ✅ Master Python and C
 - 🔄 Master DSA
 - 🔄 Build 15+ Projects
 - 🔄 Learn AI Engineering
