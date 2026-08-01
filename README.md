@@ -1,150 +1,118 @@
-<h1 align="center">
-Hi 👋, I'm Atharv Malwadkar
-</h1>
+<h1 align="center">Hi 👋 I'm Atharv Malwadkar</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • AI Enthusiast • Cybersecurity Learner • Building Real-World Software
+Computer Science Engineering Student • AI & Cybersecurity Enthusiast • Full Stack
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Learning+Cybersecurity;Backend+Developer;Future+Tech+Entrepreneur;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Software;Learning+Artificial+Intelligence;Cybersecurity+Enthusiast;Future+Tech+Entrepreneur" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student (3rd Year)
+I'm a Computer Science Engineering student passionate about building software that solves real-world problems.
 
-💡 Passionate about AI, Backend Development and Cybersecurity
-
-🚀 Building products instead of only solving problems
-
-🧠 Interested in Startups, System Design and Scalable Software
-
-📍 Pune, Maharashtra, India
+- 🎓 B.Tech CSE (3rd Year)
+- 🤖 Exploring Artificial Intelligence
+- 🔐 Learning Cybersecurity
+- ⚡ Backend Development with FastAPI
+- 🚀 Building projects instead of only solving coding questions
+- 🌱 Learning something new every day
 
 ---
 
-# 💻 Tech Stack
+# 🎯 Current Focus
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,docker" />
-</p>
-
+- Master Python
+- Master C Programming
 - Data Structures & Algorithms
 - Artificial Intelligence
 - Cybersecurity
-- FastAPI
-- System Design
-
----
-
-# 📂 Featured Projects
-
-## 🎓 EduCore ERP
-
-A modern College ERP platform focused on digitizing academic and administrative workflows.
-
-### Features
-
-- Secure Authentication
-- Student Dashboard
-- Faculty Dashboard
-- Attendance Management
-- Academic Records
-- MySQL Database
-- FastAPI Backend
-- Role Based Access Control
-
----
-
-## 🚀 More Projects Coming Soon
-
-- AI Applications
-- Cybersecurity Tools
-- Python Automation
+- Backend Development
 - Open Source Contributions
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master Python and C
-- 🔄 Master DSA
-- 🔄 Build 15+ Projects
-- 🔄 Learn AI Engineering
-- 🔄 Learn Cybersecurity
-- 🔄 Secure Internship
-- 🔄 Launch First SaaS Product
-
----
-
-# 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ATHARV-MALWADKAR&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-MALWADKAR&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,fastapi,git,github,vscode,linux,docker" />
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Project
 
-<p align="center">
+## EduCore ERP
 
-<img src="https://github-profile-trophy.vercel.app/?username=ATHARV-MALWADKAR&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+Modern ERP platform for educational institutions.
 
-</p>
+### Features
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHARV-MALWADKAR&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- Authentication
+- Student Dashboard
+- Faculty Dashboard
+- Attendance
+- Role Based Access
+- MySQL Database
+- FastAPI Backend
 
 ---
 
-# 📫 Connect With Me
+# 📚 Currently Learning
 
-<p>
+```text
+Python        █████████░ 90%
+C             ████████░░ 80%
+Java          ██████░░░░ 60%
+FastAPI       ██████░░░░ 60%
+Cybersecurity ████░░░░░░ 40%
+Artificial Intelligence ███░░░░░ 30%
+```
+
+---
+
+# 📈 GitHub Highlights
+
+- ⭐ Building real-world software projects
+- 🐍 Learning Data Structures & Algorithms
+- 🔐 Exploring Cybersecurity
+- 🤖 Learning AI
+- 🚀 Working towards launching a SaaS product
+
+---
+
+# 📌 Pinned Repositories
+
+- 🎓 EduCore ERP
+- 💻 CS50 Journey
+- 🐍 Python Basics
+- 📚 Data Structures
+
+---
+
+# 📫 Connect
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/atharv-malwadkar-43822028b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-
+</p>
 
 ---
 
-# 💬 Favorite Quote
+# 💬 Quote
 
-> **"Learn. Build. Ship. Repeat."**
+> "Learn. Build. Improve. Repeat."
 
 ---
 
 <p align="center">
-
-⭐ If you like my projects, consider giving them a star!
-
+⭐ Thanks for visiting my profile.
 </p>
