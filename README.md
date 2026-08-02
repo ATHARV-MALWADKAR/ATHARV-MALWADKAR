@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Atharv Malwadkar</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • AI & Cybersecurity Enthusiast • Full Stack
+Computer Science Engineering Student • AI & Cybersecurity Enthusiast • Full Stack Dev
 </h3>
 
 <p align="center">
