@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋 I'm Atharv Malwadkar</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • AI & Cybersecurity Enthusiast • Full Stack Dev
+Computer Science Engineering Student • Software Developer with a Security Specialization
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Software;Learning+Artificial+Intelligence;Cybersecurity+Enthusiast;Future+Tech+Entrepreneur" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Software;FastAPI+%2B+Python+Backend;Web+App+Security+Practitioner;Learning+by+Building" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about building software that solves real-world problems.
+I'm a Computer Science Engineering student who builds full-stack software and backs it with a genuine grasp of how that software can be attacked.
 
 - 🎓 B.Tech CSE (3rd Year)
-- 🤖 Exploring Artificial Intelligence
-- 🔐 Learning Cybersecurity
-- ⚡ Backend Development with FastAPI
+- ⚡ Backend Development with Python, FastAPI, MySQL
+- 🔐 Web App Security via PortSwigger Web Security Academy & HackTheBox
+- 🛡️ Reported a forced browsing vulnerability (CWE-548), recognized by my institution's Cyber Cell
 - 🚀 Building projects instead of only solving coding questions
 - 🌱 Learning something new every day
 
@@ -25,12 +25,10 @@ I'm a Computer Science Engineering student passionate about building software th
 
 # 🎯 Current Focus
 
-- Master Python
-- Master C Programming
+- Backend Development (FastAPI, MySQL)
+- Web Application Security (PortSwigger, HackTheBox)
 - Data Structures & Algorithms
-- Artificial Intelligence
-- Cybersecurity
-- Backend Development
+- Python, Java, C
 - Open Source Contributions
 
 ---
@@ -38,9 +36,7 @@ I'm a Computer Science Engineering student passionate about building software th
 # 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,c,java,mysql,fastapi,git,github,vscode,linux,docker" />
-
 </p>
 
 ---
@@ -49,47 +45,45 @@ I'm a Computer Science Engineering student passionate about building software th
 
 ## EduCore ERP
 
-Modern ERP platform for educational institutions.
+Full-stack ERP platform for educational institutions.
 
 ### Features
 
-- Authentication
+- Authentication & Role-Based Access
 - Student Dashboard
 - Faculty Dashboard
-- Attendance
-- Role Based Access
+- Attendance Management
 - MySQL Database
 - FastAPI Backend
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Practicing
 
 ```text
-Python        █████████░ 90%
-C             ████████░░ 80%
-Java          ██████░░░░ 60%
-FastAPI       ██████░░░░ 60%
-Cybersecurity ████░░░░░░ 40%
-Artificial Intelligence ███░░░░░ 30%
+Python                 ████████░░ Core language, ongoing
+Java (OOP)             ██████░░░░ Core language, ongoing
+C                      ███████░░░ Core language, ongoing
+FastAPI / MySQL        ██████░░░░ Building EduCore ERP
+PortSwigger — SQLi     ██████████ Completed
+PortSwigger — XSS      ██████░░░░ In progress
+HackTheBox             ████░░░░░░ Starting Point track
 ```
 
 ---
 
 # 📈 GitHub Highlights
 
-- ⭐ Building real-world software projects
-- 🐍 Learning Data Structures & Algorithms
-- 🔐 Exploring Cybersecurity
-- 🤖 Learning AI
-- 🚀 Working towards launching a SaaS product
+- ⚡ Building real-world full-stack projects
+- 🔐 Practicing web app security hands-on (PortSwigger, HackTheBox)
+- 🛡️ Reported and had a vulnerability disclosure recognized by my Cyber Cell
+- 🐍 Strengthening DSA fundamentals
 
 ---
 
 # 📌 Pinned Repositories
 
 - 🎓 EduCore ERP
-- 💻 CS50 Journey
 - 🐍 Python Basics
 - 📚 Data Structures
 
@@ -109,7 +103,7 @@ Artificial Intelligence ███░░░░░ 30%
 
 # 💬 Quote
 
-> "Learn. Build. Improve. Repeat."
+> "A developer who understands security builds things that last."
 
 ---
 
