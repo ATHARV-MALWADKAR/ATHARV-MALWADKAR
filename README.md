@@ -62,7 +62,7 @@ Full-stack ERP platform for educational institutions.
 
 ```text
 Python                 ████████░░ Core language, ongoing
-Java (OOP)             ██████░░░░ Core language, ongoing
+Python (OOP)             ██████░░░░ Core language, ongoing
 C                      ███████░░░ Core language, ongoing
 FastAPI / MySQL        ██████░░░░ Building EduCore ERP
 PortSwigger — SQLi     ██████████ Completed
