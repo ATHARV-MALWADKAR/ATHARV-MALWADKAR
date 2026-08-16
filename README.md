@@ -1,112 +1,83 @@
-<h1 align="center">Hi 👋 I'm Atharv Malwadkar</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student • Software Developer with a Security Specialization
-</h3>
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=200&section=header&text=Atharv%20Malwadkar&fontSize=40&fontColor=fff&fontAlignY=40&desc=B.Tech%20CSE%20%40%20Vishwakarma%20University&descSize=17&descAlignY=60&animation=fadeIn)
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Software;FastAPI+%2B+Python+Backend;Web+App+Security+Practitioner;Learning+by+Building" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=600&lines=whoami+%3E+full-stack+dev+%2B+appsec;status%3A+building+Projects;stack%3A+PortSwigger+%2F+HackTheBox+%2F+NCIIPC" alt="Typing SVG" />
 
----
+</div>
 
-# 👨‍💻 About Me
+<br>
 
-I'm a Computer Science Engineering student who builds full-stack software and backs it with a genuine grasp of how that software can be attacked.
-
-- 🎓 B.Tech CSE (3rd Year)
-- ⚡ Backend Development with Python, FastAPI, MySQL
-- 🔐 Web App Security via PortSwigger Web Security Academy & HackTheBox
-- 🛡️ Reported a forced browsing vulnerability (CWE-548), recognized by my institution's Cyber Cell
-- 🚀 Building projects instead of only solving coding questions
-- 🌱 Learning something new every day
-
----
-
-# 🎯 Current Focus
-
-- Backend Development (FastAPI, MySQL)
-- Web Application Security (PortSwigger, HackTheBox)
-- Data Structures & Algorithms
-- Python, Java, C
-- Open Source Contributions
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,fastapi,git,github,vscode,linux,docker" />
-</p>
-
----
-
-# 🚀 Featured Project
-
-## EduCore ERP
-
-Full-stack ERP platform for educational institutions.
-
-### Features
-
-- Authentication & Role-Based Access
-- Student Dashboard
-- Faculty Dashboard
-- Attendance Management
-- MySQL Database
-- FastAPI Backend
-
----
-
-# 📚 Currently Practicing
-
-```text
-Python                 ████████░░ Core language, ongoing
-Python (OOP)           ██████░░░░ Core language, ongoing
-C                      ███████░░░ Core language, ongoing
-FastAPI / MySQL        ██████░░░░ Building EduCore ERP
-PortSwigger — SQLi     ██████████ Completed
-PortSwigger — XSS      ██████░░░░ In progress
-HackTheBox             ████░░░░░░ Starting Point track
+```bash
+$ cat about.md
+> CSE undergrad, Vishwakarma University, Pune
+> Prior diploma: Electronics & Telecommunication Engineering
+> Focus: full-stack development with a security specialization
+> Reported a CWE-548 vulnerability via NCIIPC's RVDP
+> Currently completing PortSwigger Web Security Academy (SQLi ✅ | XSS in progress)
 ```
 
----
+<br>
 
-# 📈 GitHub Highlights
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- ⚡ Building real-world full-stack projects
-- 🔐 Practicing web app security hands-on (PortSwigger, HackTheBox)
-- 🛡️ Reported and had a vulnerability disclosure recognized by my Cyber Cell
-- 🐍 Strengthening DSA fundamentals
+### 🔧 Stack
 
----
+<img src="https://skillicons.dev/icons?i=py,java,c,mysql,html,css,git,github&theme=dark" />
 
-# 📌 Pinned Repositories
+### 🛡️ Security
 
-- 🎓 EduCore ERP
-- 🐍 Python Basics
-- 📚 Data Structures
+<img src="https://img.shields.io/badge/PortSwigger-SQLi_Completed-FF6633?style=flat-square&logo=portswigger&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /><br>
+<img src="https://img.shields.io/badge/NCIIPC-RVDP_Disclosure-1e2327?style=flat-square&logo=shieldsdotio&logoColor=white" />
 
----
+</td>
+<td valign="top" width="50%">
 
-# 📫 Connect
+### 🎯 Currently
 
-<p align="center">
+| | |
+|---|---|
+| 🏗️ Building | EduCore ERP |
+| 📚 Learning | Web Security, DSA |
+| 🎓 Studying | CSE @ Vishwakarma University |
+| 🔗 Connect | [LinkedIn](https://www.linkedin.com/in/atharv-malwadkar-43822028b) |
 
-<a href="https://www.linkedin.com/in/atharv-malwadkar-43822028b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</td>
+</tr>
+</table>
 
-</p>
+<br>
 
----
+<div align="center">
 
-# 💬 Quote
+### 📊 Stats
 
-> "A developer who understands security builds things that last."
+<img src="https://github-readme-stats.vercel.app/api?username=ATHARV-MALWADKAR&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-MALWADKAR&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHARV-MALWADKAR&theme=github-dark-blue&hide_border=true" width="65%" />
 
-<p align="center">
-⭐ Thanks for visiting my profile.
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHARV-MALWADKAR&theme=github-dark&hide_border=true" width="90%" />
+</div>
+
+<br>
+
+### 🚀 Featured
+
+**[EduCore ERP](https://github.com/ATHARV-MALWADKAR/EduCore_ERP)** — college ERP system covering academic workflows, authentication, and admin operations.
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,100:0f2027&height=100&section=footer)
