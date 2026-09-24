@@ -66,13 +66,6 @@ $ cat about.md
 
 <div align="center">
 
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ATHARV-MALWADKAR&theme=github-dark&hide_border=true" width="90%" />
-</div>
-
-<br>
 
 ### 🚀 Featured
 
