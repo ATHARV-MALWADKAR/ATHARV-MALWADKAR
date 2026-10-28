@@ -58,7 +58,7 @@ $ cat about.md
 <img src="https://github-readme-stats.vercel.app/api?username=ATHARV-MALWADKAR&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-MALWADKAR&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHARV-MALWADKAR&theme=github-dark-blue&hide_border=true" width="67%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHARV-MALWADKAR&theme=github-dark-blue&hide_border=true" width="65%" />
 
 </div>
 
